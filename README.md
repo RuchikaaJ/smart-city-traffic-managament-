@@ -85,6 +85,12 @@ The app opens in your browser at `http://localhost:8501`.
 | Prim's / Kruskal's | O(E log V) | Minimum-cost road network |
 ---
 
+### Output 
+<img width="1866" height="972" alt="image" src="https://github.com/user-attachments/assets/76236ed7-a724-42ba-bc0d-1a41f1493948" />
+<img width="1882" height="1007" alt="image" src="https://github.com/user-attachments/assets/17743945-510a-41e1-a04d-548669e3a42c" />
+
+
+
 ## 🔮 Future Improvements
 
 - Load real road-network data (e.g. OpenStreetMap)
